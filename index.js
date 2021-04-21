@@ -5,6 +5,6 @@ main.remove();
 
 const newHeader = document.createElement("h1");
 newHeader.setAttribute("id", "victory");
-newHeader.innerText = "YOUR-NAME is the champion"
+newHeader.innerText = "Ayse is the champion"
 document.body.appendChild(newHeader)
 console.log(newHeader)
