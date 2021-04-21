@@ -1,3 +1,3 @@
 // Write your code here!
 
-const main = document.query
+const main = document.querySelector()
